@@ -72,5 +72,5 @@ jupyter notebook image.ipynb
 ---
 ## Author
 
-Developed by Omkar Waghmare.  
+Developed by **Omkar Waghmare**.  
 Aspiring Data Scientist | Passion for ML & Data
