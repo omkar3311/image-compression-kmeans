@@ -41,10 +41,15 @@ We use **K-Means clustering** to reduce the number of unique colors in an image.
 
 ## 📊 Example  
 
-| Original Image | Compressed (k=256) | 
+| Original Image (949.69 KB) | Compressed (k=256)  (8.80 KB) | 
 |----------------|-------------------|
-| ![original](Original.jpg) | ![k16](Compressed_image.jpg) |
+| ![original](Original_image.jpg) | ![k16](Compressed_image.jpg) |
 
+
+- Size saved: 949.69 − 8.80 = 940.89 KB
+
+- Compression ratio: 949.69 / 8.80 ≈ 107.92 : 1
+- 
 ---
 
 ## 🛠️ Installation & Usage  
