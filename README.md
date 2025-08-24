@@ -58,19 +58,19 @@ We use **K-Means clustering** to reduce the number of unique colors in an image.
 ```bash
 jupyter notebook image.ipynb
 ```
-3. Requirements
+## Requirements
 
-  Python 3.x
-  
-  NumPy
-  
-  Matplotlib
-  
-  scikit-learn
-  
-  Jupyter Notebook
+     Python 3.x
+     
+     NumPy
+     
+     Matplotlib
+     
+     scikit-learn
+     
+     Jupyter Notebook
 ---
-  Author
+## Author
 
-Developed by Omkar Waghmare.
+Developed by Omkar Waghmare.  
 Aspiring Data Scientist | Passion for ML & Data
