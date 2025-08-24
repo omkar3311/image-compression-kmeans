@@ -49,7 +49,7 @@ We use **K-Means clustering** to reduce the number of unique colors in an image.
 - Size saved: 949.69 − 8.80 = 940.89 KB
 
 - Compression ratio: 949.69 / 8.80 ≈ 107.92 : 1
-- 
+
 ---
 
 ## 🛠️ Installation & Usage  
