@@ -41,9 +41,9 @@ We use **K-Means clustering** to reduce the number of unique colors in an image.
 
 ## 📊 Example  
 
-| Original Image | Compressed (k=16) | Compressed (k=8) |
-|----------------|-------------------|------------------|
-| ![original](examples/original.png) | ![k16](examples/k16.png) | ![k8](examples/k8.png) |
+| Original Image | Compressed (k=256) | 
+|----------------|-------------------|
+| ![original](examples/original.png) | ![k16](Compressed_image.jpg) |
 
 ---
 
